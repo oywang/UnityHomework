@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3549576627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 585619c14d41b173c83fc08a971ec19c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 602f920c0e02cdbfd52e6272a5676019
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SampleAssets/Sphere.prefab
+Dependencies:
+- D:/Courses/Unity/Unity Items/Vacation/Assets/StreamingAssets/BuildOutput/LocalAssets/b32ed115b1958f27d73c54bd35ad6578

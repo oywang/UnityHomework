@@ -1,0 +1,27 @@
+{
+    "BuildVersion": 103,
+    "FileNames": {
+        "54964136d262cb17eb16da6e5ddf15ba": 2097,
+        "54964136d262cb17eb16da6e5ddf15ba.manifest": 726,
+        "54964136d262cb17eb16da6e5ddf15ba.manifest.meta": 155,
+        "54964136d262cb17eb16da6e5ddf15ba.meta": 155,
+        "614d4826fdc1cbbb89c0741f12a488f5": 2088,
+        "614d4826fdc1cbbb89c0741f12a488f5.manifest": 723,
+        "614d4826fdc1cbbb89c0741f12a488f5.manifest.meta": 155,
+        "614d4826fdc1cbbb89c0741f12a488f5.meta": 155,
+        "A": 187,
+        "AllPackages": 15,
+        "AssetBundleHashs": 123,
+        "A_B": 271,
+        "B": 189,
+        "b32ed115b1958f27d73c54bd35ad6578": 135464,
+        "b32ed115b1958f27d73c54bd35ad6578.manifest": 475,
+        "b32ed115b1958f27d73c54bd35ad6578.manifest.meta": 155,
+        "b32ed115b1958f27d73c54bd35ad6578.meta": 155,
+        "LocalAssets": 1171,
+        "LocalAssets.manifest": 424,
+        "LocalAssets.manifest.meta": 155,
+        "LocalAssets.meta": 155
+    },
+    "FizeTotalSize": 145193
+}

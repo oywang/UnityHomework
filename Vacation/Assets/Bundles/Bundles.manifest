@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2507545309
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: materials
+      Dependencies: {}
+    Info_1:
+      Name: cube
+      Dependencies: {}

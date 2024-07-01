@@ -1,0 +1,11 @@
+*/*/*.csproj
+*/*/*.sln
+*/*/.idea/
+*/*/Library/
+*/*/Temp/
+*/*/obj/
+*/*/Logs/
+Library/ 
+Logs/
+Temp/
+obj/
